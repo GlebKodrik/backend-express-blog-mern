@@ -1,0 +1,16 @@
+.idea/
+.vscode/
+
+node_modules/
+
+npm-debug.log
+
+dist/
+coverage/
+.caches/
+*.log
+
+.DS_Store
+
+api-configs/local.json
+.env
